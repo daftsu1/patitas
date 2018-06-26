@@ -3,6 +3,7 @@
     <color name="colorPrimary">#4ED184</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#68b312</color>
+    <color name="colorCuadros">#ffffff</color>
     <!-- NO ESTA EN USO, POR EL BUTTON SHAPE AL IGUAL QUE EL BOX SHAPE-->
     <color name="colorButton">#ffd964</color>
 </resources>

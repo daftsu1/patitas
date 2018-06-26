@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                         selectedFragment = new HomeFragment();
                         break;
                     case R.id.nav_post:
-                        selectedFragment = new NewFragment();
+                        selectedFragment = new PostFragment();
                         break;
                     case R.id.nav_favorites:
                         selectedFragment = new ProfileFragment();
