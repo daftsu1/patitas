@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- ITEMS TOOLBAR -->++++++
+    <item
+        android:id="@+id/menu"
+        android:orderInCategory="100"
+        android:title="Exit"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_chat"
+        android:orderInCategory="200"
+        android:title="Chat"
+        android:icon="@drawable/ic_forum_black_24dp"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="300"
+        android:title="Search"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
