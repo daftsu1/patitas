@@ -6,4 +6,5 @@
     <color name="colorCuadros">#ffffff</color>
     <!-- NO ESTA EN USO, POR EL BUTTON SHAPE AL IGUAL QUE EL BOX SHAPE-->
     <color name="colorButton">#ffd964</color>
+    <color name="colorFondo">#faeab8</color>
 </resources>
